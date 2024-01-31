@@ -17,28 +17,28 @@ OOP graphical game with sound and keyboard/mouse listeners.
 ### Calculator
 OOP graphical game with sound and keyboard/mouse listeners.
 
-![Gameplay]()
+![Gameplay](https://github.com/Andreijotic/programmingportfolio/blob/main/images/calc1.png)
 
 [Source Code]()
 
 ### Convert App
 OOP graphical game with sound and keyboard/mouse listeners.
 
-![Gameplay]()
+![Gameplay](https://github.com/Andreijotic/programmingportfolio/blob/main/images/convert1.png)
 
 [Source Code]()
 
 ### Drive Cars
 OOP graphical game with sound and keyboard/mouse listeners.
 
-![Gameplay]()
+![Gameplay](https://github.com/Andreijotic/programmingportfolio/blob/main/images/drivecars1.png)
 
 [Source Code]()
 
 ### Auto Line Generator
 OOP graphical game with sound and keyboard/mouse listeners.
 
-![Gameplay]()
+![Gameplay](https://github.com/Andreijotic/programmingportfolio/blob/main/images/lines1.png)
 
 [Source Code]()
 
