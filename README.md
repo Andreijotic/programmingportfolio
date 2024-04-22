@@ -1,7 +1,7 @@
 # Andrei Jotic's Porgramming Portfolio 2023-24
 Skyline High School Computer Programming 1-2
 
-## USOE Certifications
+## USDE Certifications
 
 ## Group Projects (2023-24)
 
